@@ -12,6 +12,8 @@
     "node": "~0.6.9"
   },
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "vows": "0.6.2"
+  },
   "optionalDependencies": {}
 }
