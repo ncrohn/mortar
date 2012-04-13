@@ -1,5 +1,5 @@
 # Mortar
-A simple rendering engine designed to work with flatiron
+A simple rendering engine designed to integrate with the flatiron stack.
 
 ## Goals
 - Provide seamless fast tempalte rendering, regardless of templating language.

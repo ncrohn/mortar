@@ -1,7 +1,7 @@
 {
   "author": "Nick Crohn <ncrohn@me.com> (http://nickcrohn.com)",
   "name": "mortar",
-  "description": "A simple rendering engine designed to work with flatiron",
+  "description": "A simple rendering engine designed to integrate with the flatiron stack",
   "version": "0.0.0",
   "homepage": "http://ncrohn.github.com/mortar",
   "repository": {
